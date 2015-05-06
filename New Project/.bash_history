@@ -1,0 +1,9 @@
+ls
+ls -la
+main
+g++ -std=c++11 -o main *.cpp
+main
+g++ -std=c++11 -o main *.cpp
+g++ -std=c++11 -o main *.cpp
+g++ -std=c++11 -o main *.cpp
+main
